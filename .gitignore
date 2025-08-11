@@ -1,0 +1,22 @@
+# Arquivos de log
+*.log
+
+*.docx
+
+# Diretórios de build/produção
+/build/
+/dist/
+/out/
+
+
+# Arquivos de configuração de ambiente
+.env
+.env.local
+
+# Arquivos de IDE (VS Code, etc)
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
